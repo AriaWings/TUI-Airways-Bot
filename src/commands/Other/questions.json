@@ -1,0 +1,48 @@
+{
+    "questions": [
+      {
+        "question": "Discord ID / Username",
+        "description": "Make sure to do it in the exact format as above. Example: 15456754/UnkownUser"
+      },
+      {
+        "question": "Email Address",
+        "description": "Another optional way we can contact you if needed."
+      },
+      {
+        "question": "Type of Project"
+      },
+      {
+        "question": "For Website"
+      },
+      {
+        "question": "Describe the Features & Functions of your website."
+      },
+      {
+        "question": "For Bot"
+      },
+      {
+        "question": "Estimated Budget",
+        "description": "How much do you want to spend?"
+      },
+      {
+        "question": "Preferred Deadline",
+        "description": "When do you want us to complete it, it may be more than a week"
+      },
+      {
+        "question": "Additional Information",
+        "description": "Include any extra details or requirements for your project."
+      },
+      {
+        "question": "Commands"
+      },
+      {
+        "question": "For Website (Appearance)",
+        "description": "Clean/Minimalistic, Colorful and Creative, Dark Mode, Other: [Specify]"
+      },
+      {
+        "question": "For Bot (Appearance)",
+        "description": "User-Friendly Commands, Interactive Embeds, Dashboard Interface, Other: [Specify]"
+      }
+    ]
+  }
+  
